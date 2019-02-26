@@ -4,6 +4,8 @@ Hidden Anomaly Detection in Telecommunication Networks
 CASE STUDY - NETWORKING
 NETWORK ANAMOLY DETECTION
 
+Model  evaluation should be done using AUC
+
 BUSINESS CONTEXT:
 With the enormous growth of computer networks usage and the huge increase in the number of Applications running on top of it, network security is becoming increasingly more important. All The computer systems suffer from security vulnerabilities which are both technically difficult and economically costly to be solved by the manufacturers. Therefore, the role of Intrusion Detection Systems (IDSs), as special-purpose devices to detect anomalies and attacks in the network, is Becoming more important. The research in the intrusion detection field has been mostly focused on anomaly-based and misuse-based detection techniques for a long time. While misuse-based detection is generally favored in commercial products due to its predictability and high accuracy, in academic research
 anomaly detection is typically conceived as a more powerful method due to its theoretical
